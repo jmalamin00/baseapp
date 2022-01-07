@@ -1,4 +1,3 @@
-
 import { en as customTranslations } from '../custom/translations/en';
 import { nationalitiesNames } from './nationalities';
 
@@ -15,11 +14,11 @@ export const en = {
 	'page.homePage.btn.buyList': 'Buyer List',
 	'page.homePage.download.download': 'Download',
 	'page.homePage.download.name': 'Noodles.Exchange',
-	'page.homePage.download.title': 'Trade BTC, ETH ,BNB ,USDT NDOEX and Alt Coins & Tokens',
+	'page.homePage.download.title': 'Trade BTC,ETH,USDT,BNB,NDOEX and Alt Coins & Tokens',
 	'page.homePage.feature.title': 'Why join Noodles.Exchange ?',
-	'page.homePage.feature.title.1': 'User-friendly interface with conventional tools.',
+	'page.homePage.feature.title.1': 'Noodles.Exchange is User-friendly and Worlds Best Trading View  , .',
 	'page.homePage.feature.title.2': 'Professional market analytics',
-	'page.homePage.feature.title.3': 'Processing speed transactions and TCP connections.',
+	'page.homePage.feature.title.3': 'We Launching Airdrop & Trading Competition So You Get Free Coins & Tokens .',
 	'page.homePage.feature.title.4': 'API Documentation.',
 	'page.homePage.feature.title.5': 'Guaranteed protection against hacker attacks.',
 	'page.homePage.feature.title.6': 'Various Token Types Supported.',
@@ -27,7 +26,7 @@ export const en = {
 	'page.homePage.commuity.title2': 'Join the conversation in any of our worldwide communities.',
 	'page.homePage.trade.start': 'GET STARTED!',
 	'page.homePage.trade.title':
-		'Trade over 1000 cryptocurrencies including BTC, ETH, BNB, USDT, ,NDDOEX and Altcoins, Stablecoins and Platform Tokens',
+		'Trade Over 1000 Cryptocurrencies Including BTC, ETH, BNB, USDT, NDOEX AltCoins Stablecoins and Platform Tokens',
 	'page.homePage.trade.btn.trade': 'Trade',
 	'page.homePage.trade.btn.signup': 'Sign Up Now',
 
@@ -40,7 +39,7 @@ export const en = {
 	//  new profile
 	'page.profile.documentTitle': 'Profile',
 
-	'page.profile.quickView.userId': 'User Id:',
+	'page.profile.quickView.userId': 'Your User Id:',
 	'page.profile.quickView.lastLogin': 'Last login time',
 	'page.profile.quickView.ip': 'IP :',
 
@@ -50,7 +49,7 @@ export const en = {
 	'page.profile.accountActivity.tab.activity': 'Activity',
 	'page.profile.accountActivity.tab.device': 'Device',
 
-	'page.profile.activeStep.title.welcome': 'Welcome to Noodles.Exchange',
+	'page.profile.activeStep.title.welcome': 'Welcome to Noodles.Exchange ',
 	'page.profile.activeStep.desc.just': 'Just a few more steps and you’re good to go!',
 	'page.profile.activeStep.step1.tile.register': 'Register Account',
 	'page.profile.activeStep.step2.title.2fa': '2FA',
@@ -176,7 +175,7 @@ export const en = {
 	'page.ieo.detail.buyIeo.buyFrom.estimated': ' Estimated {currency} Quantity :',
 	'page.ieo.detail.buyIeo.buyFrom.quantity': 'Quantity ',
 
-	'page.ieo.detail.buyIeo.buyConfirm.bonus1': `🥳 You will receive`,
+	'page.ieo.detail.buyIeo.buyConfirm.bonus1': `You will receive 🥰`,
 	'page.ieo.detail.buyIeo.buyConfirm.bonus2': `bonus of `,
 	'page.ieo.detail.buyIeo.buyConfirm.confirm.title': 'Confirm To Buy',
 	'page.ieo.detail.buyIeo.buyConfirm.confirm.btn.cancel': 'Cancel',
@@ -370,8 +369,8 @@ export const en = {
 	'page.promotion.detail.content': `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit, maiores, nulla corrupti perspiciatis Lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Lorem, ipsum dolor sit amet consectetur adipisicing elit.`,
 	'page.promotion.detail.btn.join': 'Join',
 	'page.promotion.detail.btn.view': 'View',
-    
-    // end Promotion
+
+	// end Promotion
 
 	//------------------------//
 
@@ -1385,7 +1384,7 @@ export const en = {
 	'landing.banner.content.header.plan.content3':
 		'Average setup time is less than 72 hours. Get your full-featured exchange this week!',
 
-	'landing.banner.content.header.title.end.desc': 'Noodles.Exchange provides many optionsto earn and monetize your platform',
+	'landing.banner.content.header.title.end.desc': 'Udonex provides many optionsto earn and monetize your platform',
 	'landing.banner.content.header.title.end.text': 'WAYS TO MONETIZE',
 	'landing.banner.content.header.title.end.sub': 'YOUR EXCHANGE',
 
@@ -1398,7 +1397,7 @@ export const en = {
 	'landing.banner.content.header.monetize.heading.3': 'Trading Fees',
 	'landing.banner.content.header.monetize.body3':
 		'Probably the most popular way of monetization for crypto exchanges is to charge a commission on users trades. This commission is actually a fee for the service of facilitating a trade between the seller and the buyer.',
-	'landing.banner.content.header.monetize.heading.4': 'Resell Udonex Products and Services',
+	'landing.banner.content.header.monetize.heading.4': 'Resell Noodles.Exchange Products and Services',
 	'landing.banner.content.header.monetize.body4':
 		'You can place a link to Udonex and receive a commissions for every sale your link generates.',
 	'landing.banner.content.header.monetize.heading.5': 'Liquidity Import Fees',
@@ -1446,7 +1445,7 @@ export const en = {
 		'Do you want to purchase ready-made crypto exchange with existing domain name, custom design and layout? Get one in less than 24 hours!',
 	'landing.banner.content.domain.text': 'READY-MADE',
 	'landing.banner.content.domain.sub': 'CORE EXCHANGES',
-	'landing.banner.content.domain.udonex': 'Noodles.Exchange- LIVE',
+	'landing.banner.content.domain.udonex': 'Noodles.Exchange - LIVE',
 	'landing.banner.content.domain.udonswap': 'Noodles.Exchange - SOON',
 	'landing.banner.content.domain.nft': 'NFT - SOON',
 	'landing.banner.content.domain.action.title': 'Up to',
@@ -1501,7 +1500,7 @@ export const en = {
 	'landing.banner.content.whyus.benefit.sub.2': 'Full-featured Front-End API',
 	'landing.banner.content.whyus.benefit.title.3': 'PROFESSIONAL TEAM',
 	'landing.banner.content.whyus.benefit.des.3': 'We are always here to help',
-	'landing.banner.content.whyus.benefit.sub.3': 'Additional development services only $50/hour',
+	'landing.banner.content.whyus.benefit.sub.3': 'Additional development services only $500/hour',
 
 	'landing.banner.content.demo.des': 'Do you want to check how your future exchange will look like? No problem!',
 	'landing.banner.content.demo.des.br': 'We have 3 different demos: administration panel, exchange itself and users dashboard.',
@@ -1514,7 +1513,7 @@ export const en = {
 	'landing.banner.content.demo.option.password.right.1': 'demopassword',
 
 	'landing.banner.content.demo.title.2': 'Admin',
-	'landing.banner.content.demo.option.login.right.2': 'admin@Noodles.Exchange',
+	'landing.banner.content.demo.option.login.right.2': 'adminNoodles.Exchange',
 	'landing.banner.content.demo.option.password.right.2': 'adminpassword',
 
 	'landing.banner.content.demo.title.3': 'Shareholder',
@@ -1534,7 +1533,7 @@ export const en = {
 	'kyc.screen.current.feature.title.verified': 'Your account is verified',
 	'kyc.screen.current.feature.title.failed': 'Your verification is failed',
 	'kyc.screen.current.feature.title.contact': 'Please contact to Udonex Administrator.',
-	'kyc.screen.current.feature.desc': 'Complete verification to access services on Noodles.Exchange',
+	'kyc.screen.current.feature.desc': 'Complete verification to access services on Udonex',
 
 	'kyc.screen.verify.heading': 'Verified',
 	'kyc.screen.verify.title.1': 'Personal information',
@@ -1633,7 +1632,6 @@ export const en = {
 	'kyc.screen.VerificationConfirm.SeflfiePhoto': 'Seflfie Photo',
 	'kyc.screen.VerificationConfirm.Apply': 'Apply For Tier 2 Verification',
 
-	
 	...nationalitiesNames,
 	...customTranslations,
 };
